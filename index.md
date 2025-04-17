@@ -1,3 +1,4 @@
 # Title 1 
 ## Title 2
-chege the file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
